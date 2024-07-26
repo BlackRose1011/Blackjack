@@ -18,5 +18,5 @@ git status
 git add . 
 # add all files to new commit
 
-git push origin master 
+git push origin main 
 # send commit to Github
